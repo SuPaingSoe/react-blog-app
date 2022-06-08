@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My First Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Project management is the process of leading the work of a team to achieve all project goals within the given constraints.This information is usually described in project documentation, created at the beginning of the development process. The primary constraints are scope, time, and budget.The secondary challenge is to optimize the allocation of necessary inputs and apply them to meet pre-defined objectives.The objective of project management is to produce a complete project which complies with the client's objectives. In many cases, the objective of project management is also to shape or reform the client's brief to feasibly address the client's objectives. Once the client's objectives are clearly established they should influence all decisions made by other people involved in the project – for example, project managers, designers, contractors, and sub-contractors. Ill-defined or too tightly prescribed project management objectives are detrimental to decision making."
+    },
+    {
+      "id": 3,
+      "title": "My 3rd Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis consequatur expedita, assumenda similique non optio! Modi nesciunt excepturi corrupti atque blanditiis quo nobis, non optio quae possimus illum exercitationem ipsa!"
+    },
+    {
+      "id": 4,
+      "title": "My Fourth Post Editing Testing",
+      "datetime": "June 03, 2022 4:18:44 PM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis consequatur expedita, assumenda similique non optio! Modi nesciunt excepturi corrupti atque blanditiis quo nobis, non optio quae possimus illum exercitationem ipsa!"
+    },
+    {
+      "id": 5,
+      "title": "My sixth post edit",
+      "datetime": "June 04, 2022 2:18:49 PM",
+      "body": "Test post after Axios and Window size"
+    },
+    {
+      "id": 6,
+      "title": "My Fifth Post",
+      "datetime": "June 08, 2022 12:57:31 PM",
+      "body": "Fifth post testing editing"
+    },
+    {
+      "id": 7,
+      "title": "My seven post edit",
+      "datetime": "June 08, 2022 12:55:50 PM",
+      "body": "Operations management is a field of business concerned with the administration of business practices to maximize efficiency within an organization. It involves planning, organizing, and overseeing the organization’s processes to balance revenues and costs and achieve the highest possible operating profit. An operations manager is tasked with ensuring that the organization successfully converts inputs such as materials, labor, and technology into outputs in an efficient manner."
+    }
+  ]
+}
